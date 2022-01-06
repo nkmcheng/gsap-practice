@@ -10,5 +10,7 @@ In the project directory, the gsap tutorial followed is:
 https://www.youtube.com/watch?v=_-YfoAzIDzw&list=PLgcPxVODYXGIT9iX0uHBUYQSyqGvafwHT
 
 tutorial/part-1 (simple ease of items)
+
 tutorial/part-2 (timeline / stagger animations)
+
 tutorial/part-3 (reveal image animations)
